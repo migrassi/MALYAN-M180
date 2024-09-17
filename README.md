@@ -29,3 +29,6 @@ O sea, decir 220MXL es igual que B275MXL
 - Una correa sincrónica cerrada 72MXL. Es de 90 dientes, paso de 0.08" (2.033 mm) y perímetro de 7.2" (182.88 mm)
        
 En todos los casos son de 5 mm de ancho
+
+## Cómo cambiar las correas del eje Y
+Al ser correa cerrada, es necesario desmontar el eje del extremo que tiene la polea, para pasar la correa alrededor de ella. Provisoriamente usé la correa rota y, aprovechado que estaba cortada, la enlacé sin desmontar el eje y "uní" los extremos en el propio carro, insertando ambas puntas debajo de la pieza ranurada que tiene.
